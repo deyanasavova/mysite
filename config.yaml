@@ -1,0 +1,18 @@
+baseURL: https://example.com
+disableKinds:
+  - section
+  - taxonomy
+  - term
+  - RSS
+  - robotsTXT
+defaultContentLanguage: en
+theme: hugo-scroll
+title: Deyana Savova - Soprano
+params:
+  copyright: © Deyana Savova
+  description: Soprano
+  favicon: 'mysite/assets/images/Foto-Deyana-Savova.jpg'
+  images: images/Foto-Deyana-Savova.jpg
+  meta:
+    keywords: deyana, savova, deyana savova, soprano, artist, singer, lyric, lyric singer, deiana, diana, saboba, savoba, sabova
+  title: Deyana Savova - Soprano
