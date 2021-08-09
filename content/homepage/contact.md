@@ -14,10 +14,10 @@ For professional inquiries:
 
 You may also:
 
-[Follow me on](https://forkaweso.me/Fork-Awesome/icon/envelope/) {{<icon class="fa fa-facebook-square fa-2x">}} 
+[Follow her on](https://admiring-pare-dee832.netlify.app/) {{<icon class="fa fa-facebook-square fa-2x">}} 
 
-[Follow me on](https://forkaweso.me/Fork-Awesome/icon/envelope/) {{<icon class="fa fa-instagram fa-2x">}} 
+[Follow her on](https://admiring-pare-dee832.netlify.app/) {{<icon class="fa fa-instagram fa-2x">}} 
 
-[Follow me on](https://forkaweso.me/Fork-Awesome/icon/envelope/) {{<icon class="fa fa-twitter-square fa-2x">}} 
+[Follow her on](https://admiring-pare-dee832.netlify.app/) {{<icon class="fa fa-twitter-square fa-2x">}} 
 
-[Subscribe to my channel on](https://forkaweso.me/Fork-Awesome/icon/envelope/) {{<icon class="fa fa-youtube fa-2x">}} 
+[Subscribe to her channel on](https://admiring-pare-dee832.netlify.app/) {{<icon class="fa fa-youtube fa-2x">}} 
